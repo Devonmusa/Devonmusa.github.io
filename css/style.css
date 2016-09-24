@@ -22,7 +22,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 }
 /*------ HEADERBG STARTS---------*/
 .headerbg{
-	background: url(../images/bannerbg.png);
+	background: url(../img/bannerbg.png);
 	min-height:700px;
 	width:100%;
 	background-size:cover;
@@ -103,7 +103,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 a.downarrow  span{
  	height:48px;
     width:48px;
-    background:url(../images/down.png);
+    background:url(../img/down.png);
     display:inline-block;
 }
 a.downarrow{
@@ -174,7 +174,7 @@ a.downarrow{
 .arrow span{
 	height:48px;
 	width:48px;
-	background:url(../images/bwn.png);
+	background:url(../img/bwn.png);
 	display:inline-block;
 }
 a.arrow{
@@ -221,7 +221,7 @@ a.arrow{
 .down span{
 	height:48px;
 	width:48px;
-	background:url(../images/bwn.png);
+	background:url(../img/bwn.png);
 	display:inline-block;
 }
 a.down{
@@ -273,7 +273,7 @@ a.down{
 a.rightarrow  span{
 	height:30px;
 	width:30.5px;
-	background:url(../images/rightarw.png);
+	background:url(../img/rightarw.png);
 	display:inline-block;
 }
 a.rightarrow{
@@ -283,7 +283,7 @@ a.rightarrow{
 .portdown span{
 	height:48px;
 	width:48px;
-	background:url(../images/bwn.png);
+	background:url(../img/bwn.png);
 	display:inline-block;
 	}
 a.portdown{
@@ -292,7 +292,7 @@ a.portdown{
 	}
 /*------FOOTER STARTS---------*/
 .footer{
-	background: url(../images/footerbg.jpg);
+	background: url(../img/footerbg.jpg);
 	position: relative;
 	min-height: 567px;
 	background-size: cover;
@@ -382,7 +382,7 @@ a.portdown{
 .up span{
 	height:48px;
 	width:48px;
-	background:url(../images/up.png);
+	background:url(../img/up.png);
 	margin-top:2em;
 	display:inline-block;
 }
