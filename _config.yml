@@ -93,7 +93,7 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: stylesheet
   - key: href
-    value: /public/css/wu-kan.css
+    value: /public/css/devon-musa.css
 - tag: link
   var:
   - key: rel
@@ -169,11 +169,11 @@ sidebar:
   - title: github # email
     href: //github.com/Devonmusa
     class: 'fa fa-github fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: Devonmusa # codeforces
+    href: //cnblogs.com/Devonmusa/
     class: 'fa fa-bar-chart fa-fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
+  - title: devon # vjudge
+    href: //stackoverflow.com/users/7220519/devon
     class: 'fa fa-smile-o fa-fw'
   nav:
   - title: '<span class="fa fa-home fa-fw"></span>&nbsp;首页'
