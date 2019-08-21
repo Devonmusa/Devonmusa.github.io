@@ -1,7 +1,4 @@
-# Devon的博客
-## BLOG 
-   * github https://devonmusa.github.io
-   * 博客园 http://www.cnblogs.com/Devonmusa
-   
-## 关于我
 
+
+- Blog: [Devonmusa.github.io](Devonmusa.github.io)
+- email:Devonmusa2015@gmail.com
