@@ -223,7 +223,7 @@ run_time:
 
 copyright:
   enable: true
-  text: '已开源于<a href="//github.com/devon-ye/devon-ye.github.io/me">GitHub</a><br>'
+  text: '已开源于<a href="//github.com/devon-ye/me">GitHub</a><br>'
   https:
 post:
   meta:
