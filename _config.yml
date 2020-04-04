@@ -1,5 +1,5 @@
 title: devon
-url: http://devon-ye.github.io
+url: http://devon-ye.github.io/me
 baseurl: '' # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 author: Devon
 
@@ -75,7 +75,7 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: stylesheet
   - key: href
-    value: //cdn.jsdelivr.net/gh/Devonmusa/Devonmusa.github.io/public/css/poole.css # 用cdn加速会出问题，暂时不知道为什么
+    value: //cdn.jsdelivr.net/gh/devon-ye/devon-ye.github.io/public/css/poole.css # 用cdn加速会出问题，暂时不知道为什么
 - tag: link
   var:
   - key: rel
@@ -87,7 +87,7 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: stylesheet
   - key: href
-    value: //cdn.jsdelivr.net/gh/Devonmusa/Devonmusa.github.io/public/css/lanyon.css
+    value: //cdn.jsdelivr.net/gh/devon-ye/devon-ye.github.io/public/css/lanyon.css
 - tag: link
   var:
   - key: rel
